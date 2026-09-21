@@ -1,3 +1,12 @@
+### OA Project
+
+一个前后端分离项目。
+
+### 项目结构
+
+- [前端 Vue](https://github.com/siguhan/oa-project-vue)
+- [后端 Spring Boot](https://github.com/siguhan/oa-project-spring)
+
 ### 用户管理页面
 
 ![alt text](img/image.png)
